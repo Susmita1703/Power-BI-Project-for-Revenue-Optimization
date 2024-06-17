@@ -52,5 +52,7 @@ Conclusions and findings from this analysis are presented in [this document](htt
 
 **Business Intelligence:** Supported strategic decision-making with data insights.
 
+I utilized DAX (Data Analysis Expressions) to create new columns, demonstrating my proficiency in advanced data manipulation techniques
+
 
 Thanks for reading 
