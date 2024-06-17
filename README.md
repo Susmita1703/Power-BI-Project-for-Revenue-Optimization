@@ -24,13 +24,15 @@ This is the link to the Power BI visualization, which provides valuable insights
 
 Conclusions and findings from this analysis are presented in [this document](https://github.com/Susmita1703/Power-BI-Project-for-Revenue-Optimization/blob/main/Tcs%20presentation..pptx)
 
+[vedio presentaion](https://github.com/Susmita1703/Power-BI-Project-for-Revenue-Optimization/blob/main/VEDIO%20FOR%20FOREDGE%20TCS.mp4)
 
 **Key Learnings**
-Data Cleaning and Preparation: Ensured data accuracy and consistency.
-Data Analysis: Identified key revenue drivers and performance metrics.
-Power BI: Created interactive visualizations and dashboards.
-Customer Segmentation: Analyzed customer purchasing behavior.
-Trend and Geographic Analysis: Assessed revenue patterns and regional performance.
-Business Intelligence: Supported strategic decision-making with data insights.
+
+**Data Cleaning and Preparation:** Ensured data accuracy and consistency.
+**Data Analysis:** Identified key revenue drivers and performance metrics.
+**Power BI:** Created interactive visualizations and dashboards.
+**Customer Segmentation:** Analyzed customer purchasing behavior.
+**Trend and Geographic Analysis:** Assessed revenue patterns and regional performance.
+**Business Intelligence:** Supported strategic decision-making with data insights.
 
 Thanks for reading 
