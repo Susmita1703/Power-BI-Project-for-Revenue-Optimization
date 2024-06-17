@@ -22,7 +22,7 @@ I successfully cleaned 9.23% of the data and performed feature engineering by ad
 This is the link to the Power BI visualization, which provides valuable insights to assist the CEO and CMO in decision-making: [Power BI Visualization](https://github.com/Susmita1703/Power-BI-Project-for-Revenue-Optimization/blob/main/Power%20BI.pbix)
 
 
-Conclusions and findings from this analysis are presented in [this document]()
+Conclusions and findings from this analysis are presented in [this document](https://github.com/Susmita1703/Power-BI-Project-for-Revenue-Optimization/blob/main/Tcs%20presentation..pptx)
 
 
 **Key Learnings**
