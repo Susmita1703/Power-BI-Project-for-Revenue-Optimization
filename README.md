@@ -17,7 +17,7 @@ Support Decision Making: Aid the CEO and CMO with data-driven insights.
 
 Raw data utilized for this project can be accessed here: [Dirty Dataset](https://github.com/Susmita1703/Power-BI-Project-for-Revenue-Optimization/blob/main/Online%20Retail.xlsx)
 
-I successfully cleaned 9.23% of the data and performed feature engineering by adding new columns. Click here to see the cleaned dataset: [Cleaned Dataset]
+I successfully cleaned 9.23% of the data and performed feature engineering by adding new columns. Click here to see the cleaned dataset: [Cleaned Dataset](https://github.com/Susmita1703/Power-BI-Project-for-Revenue-Optimization/blob/main/onlinr%20store%20cleaned%20data%20.zip)
 
 This is the link to the Power BI visualization, which provides valuable insights to assist the CEO and CMO in decision-making: [Power BI Visualization]
 
