@@ -4,15 +4,25 @@ Analyzed 541888 dataset of revenue drivers and provided strategic insights for a
 
 **Project Objective**
 Identify Revenue Drivers: Analyze key factors contributing to revenue.
+
 Operational & Marketing Insights: Provide a complete view of business performance.
+
 Trend Analysis: Assess monthly and seasonal revenue patterns.
+
 Customer Segmentation: Determine top customers and their buying behaviors.
+
 Geographic Performance: Pinpoint high and low revenue regions.
+
 Demographic Analysis: Understand customer preferences based on demographics.
+
 Data Visualization: Create clear visuals for key metrics and insights.
+
 Growth Opportunities: Identify areas for business expansion.
+
 Strategic Recommendations: Offer actionable advice for increasing revenue.
+
 Support Decision Making: Aid the CEO and CMO with data-driven insights.
+
 
 
 Raw data utilized for this project can be accessed here: [Dirty Dataset](https://github.com/Susmita1703/Power-BI-Project-for-Revenue-Optimization/blob/main/Online%20Retail.xlsx)
@@ -29,10 +39,16 @@ Conclusions and findings from this analysis are presented in [this document](htt
 **Key Learnings**
 
 **Data Cleaning and Preparation:** Ensured data accuracy and consistency.
+
 **Data Analysis:** Identified key revenue drivers and performance metrics.
+
 **Power BI:** Created interactive visualizations and dashboards.
+
 **Customer Segmentation:** Analyzed customer purchasing behavior.
+
 **Trend and Geographic Analysis:** Assessed revenue patterns and regional performance.
+
 **Business Intelligence:** Supported strategic decision-making with data insights.
+
 
 Thanks for reading 
