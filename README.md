@@ -1,6 +1,6 @@
 # Power-BI-Project-for-Revenue-Optimization
 
-Analyzed revenue drivers and provided strategic insights for an online retail store through data cleaning and visualization with Power BI
+Analyzed 541888 dataset of revenue drivers and provided strategic insights for an online retail store through data cleaning and visualization with Power BI
 
 **Project Objective**
 Identify Revenue Drivers: Analyze key factors contributing to revenue.
@@ -15,7 +15,7 @@ Strategic Recommendations: Offer actionable advice for increasing revenue.
 Support Decision Making: Aid the CEO and CMO with data-driven insights.
 
 
-Raw data utilized for this project can be accessed here: [Dirty Dataset]
+Raw data utilized for this project can be accessed here: [Dirty Dataset](https://github.com/Susmita1703/Power-BI-Project-for-Revenue-Optimization/blob/main/Online%20Retail.xlsx)
 
 I successfully cleaned 9.23% of the data and performed feature engineering by adding new columns. Click here to see the cleaned dataset: [Cleaned Dataset]
 
