@@ -16,7 +16,7 @@ Analyzed a dataset of 541,888 rows on revenue drivers, providing strategic insig
 
 **Data Visualization**: Create clear visuals for key metrics and insights.
 
-**Growth Opportunities & Strategic Recommendations**: Identify areas for business expansion and offer actionable advice for increasing revenue
+**Strategic recommendations**: Identify areas for business expansion and offer actionable advice for increasing revenue
 
 
 
@@ -25,7 +25,7 @@ Analyzed a dataset of 541,888 rows on revenue drivers, providing strategic insig
 ## Raw data 📂
 utilized for this project can be accessed here: [Dirty Dataset](https://github.com/Susmita1703/Power-BI-Project-for-Revenue-Optimization/blob/main/Online%20Retail.xlsx)
 
-**successfully cleaned 9.23% of the data and performed feature engineering by adding new columns.I utilized DAX (Data Analysis Expressions) to create new columns, demonstrating my proficiency in advanced data manipulation techniques.
+**successfully cleaned 9.23% of the data and performed feature engineering also utilized DAX (Data Analysis Expressions) to create new columns, demonstrating my proficiency in advanced data manipulation techniques.
 Click here to see the** 
 ## cleaned dataset ✨: [Cleaned Dataset](https://github.com/Susmita1703/Power-BI-Project-for-Revenue-Optimization/blob/main/onlinr%20store%20cleaned%20data%20.zip)
 
