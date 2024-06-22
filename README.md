@@ -23,11 +23,11 @@ Analyzed a dataset of 541,888 rows on revenue drivers, providing strategic insig
 
 
 ## Raw data 📂
-utilized for this project can be accessed here: [Dirty Dataset](https://github.com/Susmita1703/Power-BI-Project-for-Revenue-Optimization/blob/main/Online%20Retail.xlsx)
+[click here](https://github.com/Susmita1703/Power-BI-Project-for-Revenue-Optimization/blob/main/Online%20Retail.xlsx) to see the dirty data
 
 **successfully cleaned more than 50000 rows of the data and performed feature engineering also utilized DAX (Data Analysis Expressions) to create new columns, demonstrating my proficiency in advanced data manipulation techniques.
-Click here to see the** 
-## cleaned dataset ✨: [Cleaned Dataset](https://github.com/Susmita1703/Power-BI-Project-for-Revenue-Optimization/blob/main/onlinr%20store%20cleaned%20data%20.zip)
+[Click here](https://github.com/Susmita1703/Power-BI-Project-for-Revenue-Optimization/blob/main/onlinr%20store%20cleaned%20data%20.zip) to see the ✨Cleaned Dataset** 
+
 
 ### This is the link to the **Power BI visualization,** which provides valuable insights to assist the CEO and CMO in decision-making 
 ## 📊 [Power BI Visualization](https://github.com/Susmita1703/Power-BI-Project-for-Revenue-Optimization/blob/main/Power%20BI.pbix)
