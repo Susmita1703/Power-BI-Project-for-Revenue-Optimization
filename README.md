@@ -1,7 +1,7 @@
 # Power-BI-Project-for-Revenue-Optimization
 
 ## project overview 📝
-Analyzed 541888 dataset of revenue drivers and provided strategic insights for an online retail store through data cleaning and visualization with Power BI
+Analyzed a dataset of 541,888 rows on revenue drivers, providing strategic insights for an online retail store through data cleaning and visualization using Power BI.
 
 ## Project Objective 🎯
 **Identify Revenue Drivers**: Analyze key factors contributing to revenue.
@@ -14,15 +14,9 @@ Analyzed 541888 dataset of revenue drivers and provided strategic insights for a
 
 **Geographic Performance**: Pinpoint high and low revenue regions.
 
-**Demographic Analysis**: Understand customer preferences based on demographics.
-
 **Data Visualization**: Create clear visuals for key metrics and insights.
 
-**Growth Opportunities**: Identify areas for business expansion.
-
-**Strategic Recommendations**: Offer actionable advice for increasing revenue.
-
-**Support Decision Making**: Aid the CEO and CMO with data-driven insights.
+**Growth Opportunities & Strategic Recommendations**: Identify areas for business expansion and offer actionable advice for increasing revenue
 
 
 
