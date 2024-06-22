@@ -31,16 +31,18 @@ Analyzed 541888 dataset of revenue drivers and provided strategic insights for a
 # Raw data 📂
 utilized for this project can be accessed here: [Dirty Dataset](https://github.com/Susmita1703/Power-BI-Project-for-Revenue-Optimization/blob/main/Online%20Retail.xlsx)
 
-**I successfully cleaned 9.23% of the data and performed feature engineering by adding new columns. Click here to see the cleaned dataset:** [Cleaned Dataset](https://github.com/Susmita1703/Power-BI-Project-for-Revenue-Optimization/blob/main/onlinr%20store%20cleaned%20data%20.zip)
+**I successfully cleaned 9.23% of the data and performed feature engineering by adding new columns.I utilized DAX (Data Analysis Expressions) to create new columns, demonstrating my proficiency in advanced data manipulation techniques.
+Click here to see the ✨ cleaned dataset:** [Cleaned Dataset](https://github.com/Susmita1703/Power-BI-Project-for-Revenue-Optimization/blob/main/onlinr%20store%20cleaned%20data%20.zip)
 
-This is the link to the Power BI visualization, which provides valuable insights to assist the CEO and CMO in decision-making 📊: [Power BI Visualization](https://github.com/Susmita1703/Power-BI-Project-for-Revenue-Optimization/blob/main/Power%20BI.pbix)
+This is the link to the **Power BI visualization,** which provides valuable insights to assist the CEO and CMO in decision-making 📊: [Power BI Visualization](https://github.com/Susmita1703/Power-BI-Project-for-Revenue-Optimization/blob/main/Power%20BI.pbix)
 
 
-# 📌 Conclusions and findings from this analysis are presented in [this document](https://github.com/Susmita1703/Power-BI-Project-for-Revenue-Optimization/blob/main/Tcs%20presentation..pptx)
+## 📌 Conclusions and findings from this analysis are presented in this documentation  
+[Click here](https://github.com/Susmita1703/Power-BI-Project-for-Revenue-Optimization/blob/main/Tcs%20presentation..pptx)
 
-[vedio presentaion](https://github.com/Susmita1703/Power-BI-Project-for-Revenue-Optimization/blob/main/VEDIO%20FOR%20FOREDGE%20TCS.mp4)
+**[vedio presentaion](https://github.com/Susmita1703/Power-BI-Project-for-Revenue-Optimization/blob/main/VEDIO%20FOR%20FOREDGE%20TCS.mp4) of the project**
 
-**Key Learnings**
+## 📚Key Learnings
 
 **Data Cleaning and Preparation:** Ensured data accuracy and consistency.
 
@@ -54,7 +56,6 @@ This is the link to the Power BI visualization, which provides valuable insights
 
 **Business Intelligence:** Supported strategic decision-making with data insights.
 
-I utilized DAX (Data Analysis Expressions) to create new columns, demonstrating my proficiency in advanced data manipulation techniques
 
 
-Thanks for reading 
+**Thanks for reading 🙏**
