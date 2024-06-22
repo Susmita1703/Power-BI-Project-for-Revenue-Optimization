@@ -1,28 +1,28 @@
 # Power-BI-Project-for-Revenue-Optimization
 
-### project overview 📝
+## project overview 📝
 Analyzed 541888 dataset of revenue drivers and provided strategic insights for an online retail store through data cleaning and visualization with Power BI
 
-**Project Objective**
-Identify Revenue Drivers: Analyze key factors contributing to revenue.
+## Project Objective 🎯
+**Identify Revenue Drivers**: Analyze key factors contributing to revenue.
 
-Operational & Marketing Insights: Provide a complete view of business performance.
+**Operational & Marketing Insights**: Provide a complete view of business performance.
 
-Trend Analysis: Assess monthly and seasonal revenue patterns.
+**Trend Analysis**: Assess monthly and seasonal revenue patterns.
 
-Customer Segmentation: Determine top customers and their buying behaviors.
+**Customer Segmentation**: Determine top customers and their buying behaviors.
 
-Geographic Performance: Pinpoint high and low revenue regions.
+**Geographic Performance**: Pinpoint high and low revenue regions.
 
-Demographic Analysis: Understand customer preferences based on demographics.
+**Demographic Analysis**: Understand customer preferences based on demographics.
 
-Data Visualization: Create clear visuals for key metrics and insights.
+**Data Visualization**: Create clear visuals for key metrics and insights.
 
-Growth Opportunities: Identify areas for business expansion.
+**Growth Opportunities**: Identify areas for business expansion.
 
-Strategic Recommendations: Offer actionable advice for increasing revenue.
+**Strategic Recommendations**: Offer actionable advice for increasing revenue.
 
-Support Decision Making: Aid the CEO and CMO with data-driven insights.
+**Support Decision Making**: Aid the CEO and CMO with data-driven insights.
 
 
 
