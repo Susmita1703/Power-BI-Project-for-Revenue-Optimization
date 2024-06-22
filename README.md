@@ -1,5 +1,6 @@
 # Power-BI-Project-for-Revenue-Optimization
 
+### project overview 📝
 Analyzed 541888 dataset of revenue drivers and provided strategic insights for an online retail store through data cleaning and visualization with Power BI
 
 **Project Objective**
