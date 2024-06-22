@@ -36,7 +36,6 @@ Click here to see the**
 ## 📌 Conclusions and findings from this analysis are presented in this documentation  
 [Click here for conclusion file](https://github.com/Susmita1703/Power-BI-Project-for-Revenue-Optimization/blob/main/Tcs%20presentation..pptx)
 
-**[vedio presentaion](https://github.com/Susmita1703/Power-BI-Project-for-Revenue-Optimization/blob/main/VEDIO%20FOR%20FOREDGE%20TCS.mp4) of the project**
 
 ## 📚Key Learnings
 
